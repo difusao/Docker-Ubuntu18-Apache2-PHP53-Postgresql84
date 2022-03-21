@@ -1,8 +1,12 @@
 # Docker-Ubuntu18-Apache2-PHP53-Postgresql84
 Enviroment for Developer PHP
+
 by difuao@gmail.com
 
+https://hub.docker.com/r/difusao/ubuntu18-apache2-php53-pgsql84
+
 Docker image created in linux Ubuntu 18.04, web server Apache2, PHP 5.3.29 and Postgresql 8.4.
+
 
 ## Image
 Create Image.
