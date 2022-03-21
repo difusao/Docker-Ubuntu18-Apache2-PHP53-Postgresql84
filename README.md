@@ -45,7 +45,7 @@ About info PHP 5.3.29 configurations.
 
 <img src="images/img2.png">
 
-Connectivy test in PostgreSQL.
+Connectivity test in PostgreSQL.
 
 <img src="images/img3.png">
 
@@ -53,6 +53,6 @@ Page with route Sample Site `http://localhost/samplesite/`.
 
 <img src="images/img4.png">
 
-Connectivy test in PostgreSQL using <a href="https://www.pgadmin.org/" target="_blank">PgAdmin</a>.
+Connectivity test in PostgreSQL using <a href="https://www.pgadmin.org/" target="_blank">PgAdmin</a>.
 
 <img src="images/img5.png">
